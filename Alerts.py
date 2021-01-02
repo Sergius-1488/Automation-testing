@@ -2,7 +2,7 @@ from selenium import webdriver
 import math
 import time
 
-start_time=time.time()
+start_time=time.time() 
 
 driver = webdriver.Chrome()
 driver.get('http://suninjuly.github.io/alert_accept.html')
