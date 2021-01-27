@@ -27,3 +27,5 @@ class TestMainPage1():
         browser.get(link)
         browser.find_element_by_css_selector(".basket-mini .btn-group > a")
         print("finish test2")
+
+        # pytest  -v --setup-show copy_test_fixture5.py
