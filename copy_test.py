@@ -23,3 +23,5 @@ class TestPrintSmilingFaces():
         # какие-то проверки
     def test_second_smiling_faces(self, prepare_faces):
         # какие-то проверки
+
+        
